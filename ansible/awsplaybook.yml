@@ -3,7 +3,7 @@
   remote_user: ubuntu
   vars:
     http_port: 3000
-    image_name: abdomazzika/vodafone-demo
+    image_name: abdomazzika/devops_iti
     docker_hub_user: abdomazzika
     docker_hub_passwd: newmusicboy1
   tasks:
