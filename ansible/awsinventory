@@ -1,1 +1,1 @@
-aws-server ansible_ssh_host=ec2-54-191-231-130.us-west-2.compute.amazonaws.com ansible_ssh_user=bitnamii ansible_ssh_private_key_file="/home/bitnami/prod.pem"
+aws-server ansible_ssh_host=ec2-54-191-231-130.us-west-2.compute.amazonaws.com ansible_ssh_user=bitnamii ansible_ssh_private_key_file="~/prod.pem"
